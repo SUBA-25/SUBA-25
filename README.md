@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suba Shini</h1>
+<h1 align="center">Hi 👋, I'm SUBSHINI P</h1>
 <h3 align="center">🚀 Cloud | DevOps | Full Stack | AWS Certified</h3>
 
 <p align="center">
@@ -52,9 +52,9 @@
 
 ### 🌐 Let's Connect
 
-- 📫 Email: [subashini@example.com](mailto:subamanju25@gmail.com)
-- 🌍 Leetcode: [Getin](https://leetcode.com/u/SUBASHINI_P/)
-- 💼 LinkedIn: [linkedin.com/in/subashini](https://www.linkedin.com/in/subashini-p-670b10295/)
+- 📫 Email: [subamanju25@gmail.com](mailto:subamanju25@gmail.com)
+- 🌍 Leetcode: [Get in](https://leetcode.com/u/SUBASHINI_P/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/subashini-p-670b10295/)
 
 ---
 
