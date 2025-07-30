@@ -44,7 +44,7 @@
 ### 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SUBASHINI_P?theme=dark&font=Baloo+Bhai&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/SUBASHINI_P?theme=dark&font=Sen&ext=heatmap" />
 </p>
 
 ---
