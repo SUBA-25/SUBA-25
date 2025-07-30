@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Cloud | DevOps | Full Stack | AWS Certified</h3>
 
 <p align="center">
-  <a href="https://subashini.cloud" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;linkedin.com/in/subaweb;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
+  <a href="linkedin.com/in/subaweb" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;See my works;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
   </a>
 </p>
 
