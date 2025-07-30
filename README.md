@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="linkedin.com/in/subaweb" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;See my works;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+domain!;See my Work;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 
 ### 🔥 About Me
