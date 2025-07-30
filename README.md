@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://subashini.cloud" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;subashini.cloud;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;linkedin.com/in/subaweb;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 
 - 📫 Email: [subamanju25@gmail.com](mailto:subamanju25@gmail.com)
 - 🌍 Leetcode: [Get in](https://leetcode.com/u/SUBASHINI_P/)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/subashini-p-670b10295/)
+- 💼 LinkedIn: [LinkedIn](linkedin.com/in/subaweb)
 
 ---
 
