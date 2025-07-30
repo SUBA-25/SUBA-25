@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://subashini.cloud" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+domain!;subashini.cloud;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;subashini.cloud;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subashini123&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashini123&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBA-25&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
@@ -45,16 +45,16 @@
 ### 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/subashini123?theme=dark&font=Baloo+Bhai&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/SUBASHINI_P?theme=dark&font=Baloo+Bhai&ext=contest" />
 </p>
 
 ---
 
 ### 🌐 Let's Connect
 
-- 🌍 Website: [subashini.cloud](https://subashini.cloud)
-- 📫 Email: [subashini@example.com](mailto:subashini@example.com)
-- 💼 LinkedIn: [linkedin.com/in/subashini](https://linkedin.com/in/subashini)
+- 📫 Email: [subashini@example.com](mailto:subamanju25@gmail.com)
+- 🌍 Leetcode: [Getin](https://leetcode.com/u/SUBASHINI_P/)
+- 💼 LinkedIn: [linkedin.com/in/subashini](https://www.linkedin.com/in/subashini-p-670b10295/)
 
 ---
 
