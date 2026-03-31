@@ -1,34 +1,42 @@
-<h1 align="center">Hi 👋, I'm SUBSHINI P</h1>
-<h3 align="center">🚀 Cloud | DevOps | Full Stack | AWS Certified</h3>
+<h1 align="center">Hi 👋, I'm Subashini P</h1>
+<h3 align="center">Cloud Enthusiast | AWS Certified | Aspiring Developer</h3>
 
 <p align="center">
-  <a href="linkedin.com/in/subaweb" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+domain!;See my Work;Cloud+%7C+DevOps+%7C+AWS+%7C+Java+Lover" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/subaweb" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;AWS+%7C+Cloud+%7C+Java;Learning+and+Building+Projects" alt="Typing SVG" />
   </a>
 </p>
+
 ---
+
 
 ### 🔥 About Me
 
-- 🌱 Currently exploring **AWS, DevOps & Backend Development**
-- 🏆 AWS Certified Cloud Practitioner  
-- 👨‍💻 Actively working on full-stack projects and cloud deployments  
-- 🧠 Learning **Java, Kubernetes, Docker, Terraform, GitHub Actions**
-- ⚡ Fun fact: I love creating smart solutions for real-world problems!
-
+- 🌱 Currently exploring **AWS and Cloud Computing**
+- ☁️ AWS Certified Cloud Practitioner  
+- 💻 Built projects using **AWS services (Amplify, Lambda, API Gateway, DynamoDB, S3)**
+- 🧠 Intermediate knowledge in **Java**
+- 🌐 Basic knowledge of **HTML and CSS**
+- ⚙️ Currently learning **DevOps tools (Docker, Kubernetes, GitHub Actions)**
 ---
 
 ### 🚀 My Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Basic-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Tool-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Tool-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learning-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
